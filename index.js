@@ -182,5 +182,5 @@ process.on('uncaughtException', error => {
     console.error('Uncaught exception:', error);
 });
 
-// Bot Login with token
-client.login('MTU1MzQyODg2MDE2NTQyMzEwNA.GeiVzA.WKG5hAt9oFim5YT9PQQP0SxeATCbfNQRs8Bpvc');
+// Bot Login with new token
+client.login('MTU1MzQyODg2MDE2NTQyMzEwNA.GlDqOW.W5Wcor73O6Ejrck0VyBafwp1ZbJsxTB2EqMaOU');
